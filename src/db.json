@@ -1,0 +1,316 @@
+{
+  "coins": [
+    {
+      "id": "1",
+      "title": "3 пфеннига",
+      "year": 1803,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["1.jpg", "2.jpg", "gd.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "20.06.2024",
+      "type": "монеты",
+      "country": "Россия"
+    },
+    {
+      "id": "2",
+      "title": "Победный крейцер",
+      "year": 1871,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["fd.jpg", "fd.jpg", "fd.jpg"],
+      "isSelling": true,
+      "count": 1,
+      "date": "23.06.2024",
+      "type": "монеты",
+      "country": "Великобритания"
+    },
+    {
+      "id": "3",
+      "title": "3 пфеннига",
+      "year": 1803,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["gd.jpg", "gd.jpg", "gd.jpg"],
+      "isSelling": false,
+      "count": 0,
+      "date": "25.06.2024",
+      "type": "банкноты",
+      "country": "Россия"
+    },
+    {
+      "id": "4",
+      "title": "Cash",
+      "year": 1324,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["card_title.png", "card_title.png", "card_title.png"],
+      "isSelling": false,
+      "count": 1,
+      "date": "22.06.2024",
+      "type": "монеты",
+      "country": "Германия"
+    },
+    {
+      "id": "5",
+      "title": "CoinCash",
+      "year": -1557,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["fd.jpg", "fd.jpg", "fd.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "20.05.2024",
+      "type": "банкноты",
+      "country": "Россия"
+    },
+    {
+      "id": "6",
+      "title": "CoinCash",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["gd.jpg", "gd.jpg", "gd.jpg"],
+      "isSelling": false,
+      "count": 0,
+      "date": "27.05.2024",
+      "type": "монеты",
+      "country": "Россия"
+    },
+    {
+      "id": "7",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["fd.jpg", "fd.jpg", "fd.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "01.07.2024",
+      "type": "монеты",
+      "country": "Италия"
+    },
+    {
+      "id": "8",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["card_title.png", "card_title.png", "card_title.png"],
+      "isSelling": false,
+      "count": 1,
+      "date": "22.06.2024",
+      "type": "монеты",
+      "country": "Греция"
+    },
+    {
+      "id": "9",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["card_title.png", "card_title.png", "card_title.png"],
+      "isSelling": false,
+      "count": 1,
+      "date": "29.07.2024",
+      "type": "монеты",
+      "country": "Россия"
+    },
+    {
+      "id": "10",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["card_title.png", "card_title.png", "card_title.png"],
+      "isSelling": false,
+      "count": 1,
+      "date": "12.06.2024",
+      "type": "монеты",
+      "country": "Россия"
+    },
+    {
+      "id": "11",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["gd.jpg", "gd.jpg", "gd.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "11.07.2024",
+      "type": "банкноты",
+      "country": "Россия"
+    },
+    {
+      "id": "12",
+      "title": "a title",
+      "year": 1996,
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["card_title.png", "card_title.png", "card_title.png"],
+      "isSelling": false,
+      "count": 1,
+      "date": "10.05.2024",
+      "type": "монеты",
+      "country": "Россия"
+    }
+  ]
+}

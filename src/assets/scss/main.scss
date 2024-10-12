@@ -1,0 +1,63 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+svg {
+  display: block;
+}
+a {
+  text-decoration: none;
+  outline: none;
+}
+img,
+button {
+  display: block;
+  width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display";
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+body {
+  --font-family: "Encode Sans SC", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000;
+  background-color: #e8e8e8;
+}
+p,
+section,
+nav {
+  margin: 0;
+  padding: 0;
+}
+button,
+a {
+  cursor: pointer;
+  border: none;
+  text-decoration: none;
+}
+.noUi-handle:before,
+.noUi-handle:after {
+  background: #9c9c9c;
+}
+.noUi-target {
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #bbbbbb;
+  box-shadow: none;
+}
+.noUi-connect {
+  background: #585858;
+}

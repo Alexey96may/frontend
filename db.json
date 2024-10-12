@@ -1,0 +1,80 @@
+{
+  "coins": [
+    {
+      "id": "1",
+      "title": "a title",
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["1.jpg", "2.jpg", "3.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "20.06.2024"
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["3.jpg", "4.jpg", "5.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "23.06.2024"
+    },
+    {
+      "id": "3",
+      "title": "a title",
+      "history": "An old coin",
+      "characters": [
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        },
+        {
+          "characterName": "the character name",
+          "characterText": "the character text"
+        }
+      ],
+      "images": ["1.jpg", "3.jpg", "5.jpg"],
+      "isSelling": false,
+      "count": 1,
+      "date": "25.06.2024"
+    }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
